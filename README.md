@@ -13,3 +13,6 @@ This project involved cleaning and standardizing a large-scale geospatial databa
 
 ### Technical Impact
 Transformed raw, inconsistent data into a structured format ready for database migration (WordPress) and map visualization, ensuring high accuracy for over hundreds of locations.
+
+Old website: https://welovepho.org/map/?geodir_search=1&stype=gd_place&s
+New website: https://yes.welovepho.org/page/map-pho-week-in-europe-2025
